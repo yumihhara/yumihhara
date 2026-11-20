@@ -83,7 +83,7 @@ Acredito em código limpo, boa documentação e em aprender em público.
 
 ## `> ls ~/tools`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,notion,vercel,netlify,githubactions,bash,npm,vite&perline=12&theme=dark" alt="Ferramentas"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,notion,bash,vite&perline=12&theme=dark" alt="Ferramentas"/>
 
 </div>
 
@@ -112,7 +112,7 @@ Acredito em código limpo, boa documentação e em aprender em público.
 </tr>
 <tr>
 <td align="center">
-  <a href="https://github.com/SEU-USUARIO/projeto-3">
+  <a href="https://github.com/yumihhara/projeto-3">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yumihhara&repo=projeto-3&theme=tokyonight&hide_border=true&bg_color=0a1024&title_color=00f0ff&icon_color=ff2bd6&text_color=9aa4c7" alt="Projeto 3"/>
   </a>
 </td>
