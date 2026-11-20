@@ -199,8 +199,7 @@ echo "Status: compilando o futuro... ⚡"
 
 ## `> connect --social`
 
-<a href="https://www.linkedin.com/in/yumihhara"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <a href="https://seusite.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfólio"/></a>
 
