@@ -101,7 +101,7 @@ Acredito em código limpo, boa documentação e em aprender em público.
 <tr>
 <td align="center">
   <a href="https://github.com/yumihhara/mundo-do-faz-de-conta">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yumihhara&repo=projeto-1&theme=tokyonight&hide_border=true&bg_color=0a1024&title_color=00f0ff&icon_color=ff2bd6&text_color=9aa4c7" alt="mundo-do-faz-de-conta"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yumihhara&repo=mundo-do-faz-de-conta&theme=tokyonight&hide_border=true&bg_color=0a1024&title_color=00f0ff&icon_color=ff2bd6&text_color=9aa4c7" alt="mundo-do-faz-de-conta"/>
   </a>
 </td>
 <td align="center">
