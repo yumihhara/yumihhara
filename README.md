@@ -14,8 +14,8 @@
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/SEU-USUARIO?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a1024&color=7a5cff" alt="Seguidores"/>
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=VISITAS&style=for-the-badge&color=ff2bd6&labelColor=0a1024" alt="Visitas"/>
+<img src="https://img.shields.io/github/followers/yumihhara?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a1024&color=7a5cff" alt="Seguidores"/>
+<img src="https://komarev.com/ghpvc/?username=yumihhara&label=VISITAS&style=for-the-badge&color=ff2bd6&labelColor=0a1024" alt="Visitas"/>
 <img src="https://img.shields.io/badge/STATUS-ONLINE-39ff88?style=for-the-badge&labelColor=0a1024" alt="Status"/>
 <img src="https://img.shields.io/badge/OPEN%20TO-WORK-00f0ff?style=for-the-badge&labelColor=0a1024" alt="Open to work"/>
 
@@ -100,25 +100,25 @@ Acredito em código limpo, boa documentação e em aprender em público.
 <table>
 <tr>
 <td align="center">
-  <a href="https://github.com/SEU-USUARIO/projeto-1">
+  <a href="https://github.com/yumihhara/projeto-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=projeto-1&theme=tokyonight&hide_border=true&bg_color=0a1024&title_color=00f0ff&icon_color=ff2bd6&text_color=9aa4c7" alt="Projeto 1"/>
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/SEU-USUARIO/projeto-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=projeto-2&theme=tokyonight&hide_border=true&bg_color=0a1024&title_color=00f0ff&icon_color=ff2bd6&text_color=9aa4c7" alt="Projeto 2"/>
+  <a href="https://github.com/yumihhara/projeto-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yumihhara&repo=projeto-2&theme=tokyonight&hide_border=true&bg_color=0a1024&title_color=00f0ff&icon_color=ff2bd6&text_color=9aa4c7" alt="Projeto 2"/>
   </a>
 </td>
 </tr>
 <tr>
 <td align="center">
   <a href="https://github.com/SEU-USUARIO/projeto-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=projeto-3&theme=tokyonight&hide_border=true&bg_color=0a1024&title_color=00f0ff&icon_color=ff2bd6&text_color=9aa4c7" alt="Projeto 3"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yumihhara&repo=projeto-3&theme=tokyonight&hide_border=true&bg_color=0a1024&title_color=00f0ff&icon_color=ff2bd6&text_color=9aa4c7" alt="Projeto 3"/>
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/SEU-USUARIO/projeto-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=projeto-4&theme=tokyonight&hide_border=true&bg_color=0a1024&title_color=00f0ff&icon_color=ff2bd6&text_color=9aa4c7" alt="Projeto 4"/>
+  <a href="https://github.com/yumihhara/projeto-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yumihhara&repo=projeto-4&theme=tokyonight&hide_border=true&bg_color=0a1024&title_color=00f0ff&icon_color=ff2bd6&text_color=9aa4c7" alt="Projeto 4"/>
   </a>
 </td>
 </tr>
@@ -156,7 +156,7 @@ echo "Status: compilando o futuro... ⚡"
 
 ## `> github --analytics`
 
-<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true&background=0a1024&ring=00f0ff&fire=ff2bd6&currStreakLabel=00f0ff&sideLabels=9aa4c7&currStreakNum=ffffff&sideNums=ffffff&dates=9aa4c7" alt="Streak" width="62%"/>
+<img src="https://streak-stats.demolab.com?user=yumihhara&theme=tokyonight&hide_border=true&background=0a1024&ring=00f0ff&fire=ff2bd6&currStreakLabel=00f0ff&sideLabels=9aa4c7&currStreakNum=ffffff&sideNums=ffffff&dates=9aa4c7" alt="Streak" width="62%"/>
 
 <br/>
 
@@ -165,7 +165,7 @@ echo "Status: compilando o futuro... ⚡"
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=tokyo-night&bg_color=0a1024&color=00f0ff&line=7a5cff&point=ff2bd6&area=true&area_color=7a5cff&hide_border=true&custom_title=Activity%20Graph" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yumihhara&theme=tokyo-night&bg_color=0a1024&color=00f0ff&line=7a5cff&point=ff2bd6&area=true&area_color=7a5cff&hide_border=true&custom_title=Activity%20Graph" alt="Activity Graph" width="100%"/>
 
 </div>
 
@@ -175,7 +175,7 @@ echo "Status: compilando o futuro... ⚡"
 
 ## `> trophies --list`
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yumihhara&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" width="100%"/>
 
 </div>
 
@@ -186,9 +186,9 @@ echo "Status: compilando o futuro... ⚡"
 ## `> snake --eat contributions`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake.svg"/>
-  <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yumihhara/yumihhara/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yumihhara/yumihhara/output/github-snake.svg"/>
+  <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/yumihhara/yumihhara/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
@@ -199,11 +199,11 @@ echo "Status: compilando o futuro... ⚡"
 
 ## `> connect --social`
 
-<a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/yumihhara"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://instagram.com/SEU-USUARIO"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://x.com/SEU-USUARIO"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://dev.to/SEU-USUARIO"><img src="https://img.shields.io/badge/dev.to-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
+<a href="https://instagram.com/yumihhara"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://x.com/yumihhara"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://dev.to/yumihhara"><img src="https://img.shields.io/badge/dev.to-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
 <a href="https://discord.com/users/SEU-ID"><img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 <a href="https://seusite.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfólio"/></a>
 
