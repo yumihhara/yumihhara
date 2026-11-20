@@ -201,10 +201,7 @@ echo "Status: compilando o futuro... ⚡"
 
 <a href="https://www.linkedin.com/in/yumihhara"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://instagram.com/yumihhara"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://x.com/yumihhara"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://dev.to/yumihhara"><img src="https://img.shields.io/badge/dev.to-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
-<a href="https://discord.com/users/SEU-ID"><img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+
 <a href="https://seusite.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfólio"/></a>
 
 </div>
