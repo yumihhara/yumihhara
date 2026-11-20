@@ -48,8 +48,8 @@ Desenvolvedor apaixonado por transformar ideias em software. Gosto de criar apli
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/yumi-hara"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yumihhara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yumi-hara)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2bd6,50:7a5cff,100:00f0ff&height=100&section=footer" width="100%"/>
 
