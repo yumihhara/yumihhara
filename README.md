@@ -62,11 +62,11 @@ Acredito em código limpo, boa documentação e em aprender em público.
 
 ## `> cat tech_stack.json`
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,nodejs,tailwind,java,php&perline=11&theme=dark" alt="Linguagens e Frameworks"/>
+<img src="https://skillicons.dev/icons?i=js,python,html,css,react,nextjs,nodejs,java,php&perline=11&theme=dark" alt="Linguagens e Frameworks"/>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase,prisma,docker,linux,aws,nginx&perline=11&theme=dark" alt="Bancos, Infra e Cloud"/>
+<img src="https://skillicons.dev/icons?i=mysql,redis,firebase,prisma,docker,aws&perline=11&theme=dark" alt="Bancos, Infra e Cloud"/>
 
 <br/><br/>
 
