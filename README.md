@@ -83,7 +83,7 @@ Acredito em código limpo, boa documentação e em aprender em público.
 
 ## `> ls ~/tools`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,notion,bash,vite&perline=12&theme=dark" alt="Ferramentas"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,notion&perline=12&theme=dark" alt="Ferramentas"/>
 
 </div>
 
