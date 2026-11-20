@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.svg" alt="System Online Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/yumihhara/yumihhara/main/assets/banner.svg" alt="Banner" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=720&height=50&lines=Ol%C3%A1%2C+eu+sou+Seu+Nome+%F0%9F%91%8B;Desenvolvedor+%7C+Entusiasta+de+IA+%F0%9F%A4%96;Construindo+o+futuro%2C+uma+linha+de+c%C3%B3digo+por+vez+%E2%9A%A1;Open+Source+%7C+Automa%C3%A7%C3%A3o+%7C+Cyberpunk+%F0%9F%8C%86" alt="Typing SVG" />
