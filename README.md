@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:7a5cff,100:ff2bd6&height=220&section=header&text=Yumi%20Hara&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Desenvolvedor%20Full%20Stack%20%7C%20IA%20%7C%20Automa%C3%A7%C3%A3o&descAlignY=62&descSize=18" width="100%" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:7a5cff,100:ff2bd6&height=220&section=header&text=Yumi%20Hara&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Estudante%20de%20Engenharia%20%20de%20%20Software&descAlignY=62&descSize=18" width="100%" alt="Banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=560&lines=Construindo+o+futuro+com+c%C3%B3digo+%E2%9A%A1;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%9A%80" alt="Typing"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-39ff88?style=for-the-badge&labelColor=0a1024"/>
-<img src="https://img.shields.io/badge/Joinville-SC-00f0ff?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0a1024"/>
-<img src="https://img.shields.io/github/followers/SEU-USUARIO?style=for-the-badge&logo=github&labelColor=0a1024&color=7a5cff"/>
+<img src="https://img.shields.io/github/followers/yumihhara?style=for-the-badge&logo=github&labelColor=0a1024&color=7a5cff"/>
 
 </div>
 
@@ -23,7 +22,7 @@ Desenvolvedor apaixonado por transformar ideias em software. Gosto de criar apli
 ### ⚡ Tecnologias
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,c,python,html,css,react,nextjs,nodejs,docker,git,github,vscode,mysql&perline=14&theme=dark" alt="Tecnologias"/>
+<img src="https://skillicons.dev/icons?i=js,c,python,html,css,docker,git,github,vscode,mysql&perline=14&theme=dark" alt="Tecnologias"/>
 </div>
 
 ---
@@ -44,17 +43,6 @@ Desenvolvedor apaixonado por transformar ideias em software. Gosto de criar apli
 </td>
 </tr>
 </table>
-
----
-
-### 📊 Estatísticas
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a1024&title_color=00f0ff&icon_color=ff2bd6&text_color=9aa4c7" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a1024&title_color=00f0ff&text_color=9aa4c7" height="170"/>
-</div>
-
----
 
 ### 📫 Contato
 
