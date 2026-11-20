@@ -36,15 +36,15 @@
 <td width="60%" valign="top">
 
 ```yaml
-nome:        Seu Nome
-funcao:      Desenvolvedor Full Stack
-foco:        IA · Automação · Web
+nome:        Beatriz Yumi M. Hara
+funcao:      Estudante de Engenharia de Software
+foco:        IA · Banco de Dados · Web
 localizacao: Joinville, SC — Brasil 🇧🇷
 idiomas:     [Português, Inglês]
 status:      "Online e compilando ☕"
 ```
 
-Sou apaixonado por transformar ideias em software. Gosto de explorar **Inteligência Artificial**, criar **automações** e construir interfaces com identidade visual forte.
+Sou apaixonado por transformar ideias em software. Gosto de explorar **Inteligência Artificial**, criar **bancos** e construir interfaces com identidade visual forte.
 Acredito em código limpo, boa documentação e em aprender em público.
 
 </td>
